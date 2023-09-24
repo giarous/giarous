@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/zX7xFywQ/2000-600px4.gif)(rg-developer.com)
+[![2000-600px4.gif](https://i.postimg.cc/zX7xFywQ/2000-600px4.gif)](www.rg-developer.com)
 <h1 align="center">Hi 👋, I'm GIAROUS</h1>
 <h3 align="center">An enthusiastic software developer from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
