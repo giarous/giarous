@@ -55,6 +55,14 @@ I'm a Computer Science graduate (B.Sc. Software Engineering) with a passion for 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/DALL·E-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MediaPipe-on--device_LLM-00897B?style=for-the-badge&logo=google&logoColor=white" height="40"/>
+</p>
 
 ### 🤖 AI & LLM Integrations
 
